@@ -1,0 +1,14 @@
+body{
+      background-color: aquamarine;
+      text-align: center;
+      padding: 8px;
+}
+
+img{
+      border-radius: 50%;
+      width: 400px;
+}
+
+ul{
+      list-style: none;
+}
