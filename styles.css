@@ -4,11 +4,62 @@ body{
       padding: 8px;
 }
 
-img{
+
+h1{
+      font-family: 'Courier New', Courier, monospace;
+      margin-bottom: 50px;
+}
+
+.chef{
       border-radius: 50%;
       width: 400px;
 }
 
-ul{
-      list-style: none;
+.image-div{
+      
+     height: 280px;
+     margin: 20px auto; 
+     padding: 60px 20px;
 }
+
+.jollof-rice,
+.egusi-soup,
+.stew{
+      width: 300px;
+      height: 280px;
+      border-radius: 20px;
+}
+
+.jollof,
+.egusi,
+.stew-rice{
+      display: inline-block;
+      margin-right: 150px;
+      
+      
+}
+.stew-rice{
+      margin-right: 0;
+}
+
+
+.links-div  a{
+      
+      text-decoration: none;
+      margin-right: 180px;
+      font-size: 20px;
+      color: black;
+      
+}
+
+.links-div{
+      margin-top: 10px;
+      
+
+      
+      
+         
+}
+
+
+
